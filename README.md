@@ -1,2 +1,2 @@
 # Final-Project
-Final project of electronic engineer career. IOT - LORAWAN - C/C++ - ARM
+Electronic engineering degree project. IOT - LORAWAN - C/C++ - ARM
